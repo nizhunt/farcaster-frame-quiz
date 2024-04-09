@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Which of the following is a valid way to declare a fixed-size byte array in Solidity?",
+    "options": ["byte[8]", "bytes8", "byte8"],
+    "correctAnswer": "bytes8"
+  },
+  {
+    "question": "What is the term for the smallest execution unit in the Ethereum Virtual Machine?",
+    "options": ["opcode", "gas", "bytecode"],
+    "correctAnswer": "opcode"
+  },
+  {
+    "question": "Which of the following is a valid visibility modifier for a function in Solidity?",
+    "options": ["external", "export", "transparent"],
+    "correctAnswer": "external"
+  },
+  {
+    "question": "What is the term for the mechanism that prevents reentrancy attacks in Solidity?",
+    "options": ["mutex", "lock", "guard"],
+    "correctAnswer": "mutex"
+  },
+  {
+    "question": "Which function modifier ensures a function cannot modify the contract's state?",
+    "options": ["pure", "constant", "immutable"],
+    "correctAnswer": "pure"
+  },
+  {
+    "question": "In Solidity, which of the following is used to define a variable that cannot be changed after its declaration in constructor?",
+    "options": ["constant", "immutable", "fixed"],
+    "correctAnswer": "immutable"
+  },
+  {
+    "question": "What is the term for the fixed-length hash used to uniquely identify transactions and blocks in Solidity?",
+    "options": ["bytecode", "keccak256", "hash"],
+    "correctAnswer": "keccak256"
+  }
+]
